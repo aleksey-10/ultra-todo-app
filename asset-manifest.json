@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ultra-todo-app/static/css/main.492246c3.chunk.css",
+    "main.js": "/ultra-todo-app/static/js/main.18e3d4ab.chunk.js",
+    "main.js.map": "/ultra-todo-app/static/js/main.18e3d4ab.chunk.js.map",
+    "runtime-main.js": "/ultra-todo-app/static/js/runtime-main.2fd1ae7b.js",
+    "runtime-main.js.map": "/ultra-todo-app/static/js/runtime-main.2fd1ae7b.js.map",
+    "static/js/2.63a4dabb.chunk.js": "/ultra-todo-app/static/js/2.63a4dabb.chunk.js",
+    "static/js/2.63a4dabb.chunk.js.map": "/ultra-todo-app/static/js/2.63a4dabb.chunk.js.map",
+    "index.html": "/ultra-todo-app/index.html",
+    "precache-manifest.56f780c25701d0850a802efd10f1a21f.js": "/ultra-todo-app/precache-manifest.56f780c25701d0850a802efd10f1a21f.js",
+    "service-worker.js": "/ultra-todo-app/service-worker.js",
+    "static/css/main.492246c3.chunk.css.map": "/ultra-todo-app/static/css/main.492246c3.chunk.css.map",
+    "static/js/2.63a4dabb.chunk.js.LICENSE.txt": "/ultra-todo-app/static/js/2.63a4dabb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fd1ae7b.js",
+    "static/js/2.63a4dabb.chunk.js",
+    "static/css/main.492246c3.chunk.css",
+    "static/js/main.18e3d4ab.chunk.js"
+  ]
+}
